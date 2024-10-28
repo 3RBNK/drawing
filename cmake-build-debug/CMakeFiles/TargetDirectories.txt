@@ -1,0 +1,3 @@
+/home/bnkr/CLionProjects/yla/prjct/cmake-build-debug/CMakeFiles/prjct.dir
+/home/bnkr/CLionProjects/yla/prjct/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bnkr/CLionProjects/yla/prjct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
